@@ -13,7 +13,7 @@ body,html{
 	font-weight:normal;
 }
 a{
-    color: #4caf50;
+    color: #d55526;
 	-webkit-transition: all 0.3s linear;
        -moz-transition: all 0.3s linear;
        -ms-transition: all 0.3s linear;
@@ -21,7 +21,7 @@ a{
             transition: all 0.3s linear;
 }
 a:hover{
-    color: #e53935;
+    color: #000;
 	text-decoration: none;
 }
 

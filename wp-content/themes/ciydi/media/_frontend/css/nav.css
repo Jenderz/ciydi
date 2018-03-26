@@ -7,7 +7,7 @@ nav.mythemes-topper ul li{
 nav.mythemes-topper ul li a{
 	font-family: Raleway, sans-serif, Arial, serif;
 	display: inline-block;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 600;
 	line-height: 18px;
 }
@@ -88,7 +88,7 @@ nav.mythemes-topper div.not-collapsed-wrapper ul.hide-on-med-and-down > li:hover
     text-transform: none;
 }
 nav.mythemes-topper div.not-collapsed-wrapper ul.hide-on-med-and-down > li > a{
-	padding: 10px 15px;
+	padding: 10px 10px;
 }
 nav.mythemes-topper div.not-collapsed-wrapper ul.hide-on-med-and-down > li.menu-item-has-children > a:after{
 	content: '\e884'; /* done */

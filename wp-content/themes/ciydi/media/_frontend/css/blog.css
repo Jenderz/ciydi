@@ -394,7 +394,7 @@ article div.meta ul.post-categories li{
 }
 
 article div.meta ul.post-categories li a{
-    background-color: #4caf50;
+    background-color: #d55526;
     color: #ffffff;
 
     padding: 5px 12px;
@@ -419,7 +419,7 @@ article div.meta ul.post-categories li a{
             transition: all .3s ease-out;
 }
 article div.meta ul.post-categories li a:hover{
-    background-color: #43a047;
+    background-color: #d55526;
     color: #ffffff;
 
     -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
@@ -632,7 +632,7 @@ body.single section div.post-meta-tags span{
 }
 
 body.single section div.post-meta-tags a{
-    background-color: #4caf50;
+    background-color: #d55526;
 
     -webkit-user-select: none;
        -moz-user-select: none;
@@ -736,7 +736,7 @@ div.pagination nav ul > li:first-child{
     margin: 0px;
 }
 div.pagination nav a{
-    background-color: #4caf50;
+    background-color: #d55526;
     color: #ffffff;
 
     -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
@@ -847,7 +847,7 @@ div.mythemes-paged-post > a > span{
             transition: all 0.5s linear;
 }
 div.mythemes-paged-post > a:hover > span{
-    background-color: #26ad60;
+    background-color: #d55526;
     color: #ffffff;
 }
 

@@ -15,10 +15,10 @@
         <div id="searchbox">
 
         	<!-- search input -->
-            <input type="text" name="s"  id="keywords" value="<?php _e( 'type here...' , 'materialize' ); ?>" onfocus="if (this.value == '<?php _e( 'type here...' , 'materialize' ); ?>') {this.value = '';}" onblur="if (this.value == '') {this.value = '<?php _e( 'type here...' , 'materialize' ); ?>';}">
+            <input type="text" name="s"  id="keywords" value="<?php _e( 'Buscar' , 'materialize' ); ?>" onfocus="if (this.value == '<?php _e( 'Buscar' , 'materialize' ); ?>') {this.value = '';}" onblur="if (this.value == '') {this.value = '<?php _e( 'Buscar' , 'materialize' ); ?>';}">
 
             <!-- search button -->
-            <button type="submit" class="waves-effect waves-light btn green">
+            <button type="submit" class="waves-effect waves-light btn orange-ciydi">
 
             	<!-- button search icon -->
             	<i class="materialize-icon-search-5"></i></button>

@@ -221,7 +221,7 @@ div.comments-list div.mythemes-comments > ol li.comment div.comment-quote p{
 }
 div.comments-list div.mythemes-comments > ol li.pingback div.comment-quote em,
 div.comments-list div.mythemes-comments > ol li.comment div.comment-quote em{
-    color: #ff2222;
+    color: #d55526;
     display: block;
     margin-bottom: 8px;
 }
@@ -309,7 +309,7 @@ div.comment-respond h3.comment-reply-title small a:hover{
 }
 
 div.comment-respond form.comment-form button.submit-comment{
-    background-color: #37474f;
+    background-color: #d55526;
     color: rgba( 255, 255, 255, 0.8 );
     float: right;
 
@@ -344,7 +344,7 @@ div.comment-respond form.comment-form button.submit-comment:focus{
 }
 
 div.comment-respond form.comment-form button.submit-comment:hover{
-    background-color: #263238;
+    background-color: #3f3f3f;
     color: rgba( 255, 255, 255, 1.0 );
 }
 @media ( max-width: 480px ){
