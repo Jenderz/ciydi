@@ -111,7 +111,7 @@ nav.mythemes-topper div.not-collapsed-wrapper ul.hide-on-med-and-down > li.menu-
 	}
 
 	nav.mythemes-topper div.not-collapsed-wrapper ul ul{
-		background-color: #ffffff;
+		background-color: #d55526;
 		position: absolute;
 		width: 205px;
 		z-index: 100002;
@@ -181,8 +181,8 @@ nav.mythemes-topper div.not-collapsed-wrapper ul.hide-on-med-and-down > li.menu-
 	}
 	nav.mythemes-topper div.collapsed-wrapper ul li.current-menu-item > a,
 	nav.mythemes-topper div.collapsed-wrapper ul li.current-menu-item:hover > a{
-		background-color: #e53935;
-		color: #ffffff;
+		background-color: #3f3f3f;
+		color: #fff;
 	}
 }
 

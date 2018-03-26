@@ -2916,7 +2916,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
   .hide-on-med-and-down {
     display: none !important;
   }
@@ -6640,7 +6640,7 @@ input[type=range]:focus::-ms-fill-upper {
   height: calc(100% + 60px);
   height: -moz-calc(100%);
   padding-bottom: 60px;
-  background-color: #fff;
+  background-color: #d55526;
   z-index: 999;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;

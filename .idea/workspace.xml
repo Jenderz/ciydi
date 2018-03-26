@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="47b3f963-d79b-459a-a7e2-da9ed360726d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/header.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min2.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,53 +28,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="144" column="40" lean-forward="false" selection-start-line="144" selection-start-column="40" selection-end-line="144" selection-end-column="40" />
-              <folding>
-                <element signature="e#3977#4262#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="materialize.min2.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="materialize.min.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="materialize.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="1658" column="22" lean-forward="false" selection-start-line="1658" selection-start-column="22" selection-end-line="1658" selection-end-column="22" />
+            <state relative-caret-position="178">
+              <caret line="6642" column="28" lean-forward="false" selection-start-line="6642" selection-start-column="28" selection-end-line="6642" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ie.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/ie.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="720">
+              <caret line="157" column="24" lean-forward="true" selection-start-line="157" selection-start-column="24" selection-end-line="157" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -86,8 +61,18 @@
       <file leaf-file-name="navigation.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/navigation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
-              <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            <state relative-caret-position="1098">
+              <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -150,11 +135,11 @@
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" />
       </list>
     </option>
   </component>
@@ -188,7 +173,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,6 +229,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,18 +281,20 @@
       <workItem from="1521944580968" duration="9934000" />
       <workItem from="1521990093681" duration="10299000" />
       <workItem from="1522017621375" duration="8407000" />
-      <workItem from="1522071100698" duration="8557000" />
+      <workItem from="1522071100698" duration="8858000" />
+      <workItem from="1522092119328" duration="2695000" />
+      <workItem from="1522098053597" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76603000" />
+    <option name="totallyTimeSpent" value="80667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-27" y="51" width="1026" height="605" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26584867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2781186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -463,13 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/ie.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_backend/css/options.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -530,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-          <folding>
-            <element signature="e#6#142#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -540,9 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="37" column="53" lean-forward="false" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-          <folding>
-            <element signature="e#6#151#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1782">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,6 +601,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -670,7 +659,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/templates/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -678,60 +675,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/navigation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="144" column="40" lean-forward="false" selection-start-line="144" selection-start-column="40" selection-end-line="144" selection-end-column="40" />
+        <state relative-caret-position="206">
+          <caret line="184" column="79" lean-forward="true" selection-start-line="184" selection-start-column="79" selection-end-line="184" selection-end-column="79" />
           <folding>
             <element signature="e#3977#4262#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="1658" column="22" lean-forward="false" selection-start-line="1658" selection-start-column="22" selection-end-line="1658" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="720">
+          <caret line="157" column="24" lean-forward="true" selection-start-line="157" selection-start-column="24" selection-end-line="157" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="6642" column="28" lean-forward="false" selection-start-line="6642" selection-start-column="28" selection-end-line="6642" selection-end-column="28" />
           <folding />
         </state>
       </provider>

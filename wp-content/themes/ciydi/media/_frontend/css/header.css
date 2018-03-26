@@ -49,11 +49,11 @@ nav.mythemes-topper div.mythemes-blog-identity a.mythemes-blog-description:hover
     color: #333333;
 }
 
-@media only screen and (max-width : 992px) {
+@media only screen and (max-width : 1100px) {
     nav.mythemes-topper a.button-collapse,
     nav.mythemes-topper a.button-collapse i,
     nav.mythemes-topper a.button-collapse i:before{
-        color: #999999;
+        color: #fff;
         display: inline-block;
         font-size: 24px;
 
@@ -68,7 +68,7 @@ nav.mythemes-topper div.mythemes-blog-identity a.mythemes-blog-description:hover
     nav.mythemes-topper a.button-collapse:hover,
     nav.mythemes-topper a.button-collapse:hover i,
     nav.mythemes-topper a.button-collapse:hover i:before{
-        color: #333333;
+        color: #3f3f3f;
     }
 
     nav.mythemes-topper div.mythemes-blog-identity{
