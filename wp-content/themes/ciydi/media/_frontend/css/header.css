@@ -4,15 +4,14 @@ header.mythemes-miss-header-image nav{
 
 /* MYTHEMES TOPPER */
 nav.mythemes-topper{
-    text-align: center;
+    text-align: left;
     line-height: inherit;
     height: auto;
 }
 nav.mythemes-topper div.mythemes-blog-identity{
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
-    border-bottom: 3px double rgba( 0, 0, 0, 0.1 );
 }
 nav.mythemes-topper div.mythemes-blog-identity a.mythemes-blog-logo,
 nav.mythemes-topper div.mythemes-blog-identity a.mythemes-blog-title,

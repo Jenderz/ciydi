@@ -8,7 +8,7 @@ nav.mythemes-topper ul li a{
 	font-family: Raleway, sans-serif, Arial, serif;
 	display: inline-block;
 	font-size: 14px;
-	font-weight: 500;
+	font-weight: 600;
 	line-height: 18px;
 }
 
@@ -24,12 +24,13 @@ nav.mythemes-topper ul a:hover{
 }
 
 nav.mythemes-topper ul li a{
-	color: #999999;
+	color: #fff;
 }
 nav.mythemes-topper ul li:hover > a,
 nav.mythemes-topper ul li a:hover{
-	color: #000000;
+	color: #fff;
 	background-color: transparent;
+	font-weight: bold;
 }
 nav.mythemes-topper ul li:hover{
 	background-color: transparent;
@@ -143,7 +144,7 @@ nav.mythemes-topper div.not-collapsed-wrapper ul.hide-on-med-and-down > li.menu-
 	nav.mythemes-topper div.not-collapsed-wrapper ul li.current-menu-item,
 	nav.mythemes-topper div.not-collapsed-wrapper ul li.current-menu-ancestor:hover,
 	nav.mythemes-topper div.not-collapsed-wrapper ul li.current-menu-item:hover{
-		background-color: #e53935;
+		background-color: #3f3f3f;
 	}
 	nav.mythemes-topper div.not-collapsed-wrapper ul li.current-menu-ancestor > a,
 	nav.mythemes-topper div.not-collapsed-wrapper ul li.current-menu-item > a,

@@ -141,7 +141,7 @@
         <header class="<?php echo esc_attr( $mythemes_header_class ); ?>">
 
             <!-- header navigation -->
-            <nav class="orange mythemes-topper" role="navigation">
+            <nav class="orange-ciydi mythemes-topper" role="navigation">
                 <div class="nav-wrapper container">
 
                     <!-- header button -->
@@ -156,7 +156,7 @@
                         echo '<div class="mythemes-blog-identity">';
 
                         if ( function_exists( 'the_custom_logo' ) && $has_custom_logo = has_custom_logo() ) {
-                            echo '<div class="mythemes-blog-logo" style="margin-top: ' . absint( get_theme_mod( 'mythemes-blog-logo-m-top' ) ) . 'px; margin-bottom: ' . absint( get_theme_mod( 'mythemes-blog-logo-m-bottom' ) ) . 'px;">';
+                            echo '<div class="center mythemes-blog-logo" style="margin-top: ' . absint( get_theme_mod( 'mythemes-blog-logo-m-top' ) ) . 'px; margin-bottom: ' . absint( get_theme_mod( 'mythemes-blog-logo-m-bottom' ) ) . 'px;">';
                             the_custom_logo();
                             echo '</div>';
                         }
