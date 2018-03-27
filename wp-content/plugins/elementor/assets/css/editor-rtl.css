@@ -1,4 +1,4 @@
-/*! elementor - v2.0.0 - 26-03-2018 */
+/*! elementor - v2.0.1 - 27-03-2018 */
 @charset "UTF-8";
 .dialog-widget-content {
   background-color: #fff;
@@ -3322,14 +3322,19 @@ body.elementor-editor-preview #elementor-mode-switcher {
             border-radius: 0 0 3px 3px; }
   .elementor-template-library-template-local .elementor-template-library-template-name {
     font-weight: 500; }
-  .elementor-template-library-template-local .elementor-template-library-template-name, .elementor-template-library-template-local .elementor-template-library-template-meta {
-    padding-left: 20px;
+  .elementor-template-library-template-local .elementor-template-library-template-name,
+  .elementor-template-library-template-local .elementor-template-library-template-meta {
+    padding-left: 20px; }
+  .elementor-template-library-template-local .elementor-template-library-template-meta {
+    color: #a4afb7; }
+  .elementor-template-library-template-local .elementor-template-library-template-name,
+  .elementor-template-library-template-local .elementor-template-library-template-meta,
+  .elementor-template-library-template-local .elementor-template-library-template-preview,
+  .elementor-template-library-template-local .elementor-template-library-template-action {
     white-space: nowrap;
     overflow: hidden;
     -o-text-overflow: ellipsis;
        text-overflow: ellipsis; }
-  .elementor-template-library-template-local .elementor-template-library-template-meta {
-    color: #a4afb7; }
   .elementor-template-library-template-local .elementor-template-library-template-controls {
     position: relative;
     display: -webkit-box;
@@ -3357,7 +3362,7 @@ body.elementor-editor-preview #elementor-mode-switcher {
     color: #556068; }
   .elementor-template-library-template-local .elementor-template-library-template-action {
     padding: 8px 18px;
-    margin: 0 20px; }
+    margin: 0 5%; }
   .elementor-template-library-template-local .elementor-template-library-template-more {
     display: none;
     position: absolute;

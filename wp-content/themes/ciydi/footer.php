@@ -1,14 +1,6 @@
 <?php
 /**
- *
- *  The template for displaying the footer
- *
- *  Contains the footer sidebars, social items,
- *  content copyright, theme copyright
- *
- *  @package WordPress
- *  @subpackage Materialize
- *  @since Materialize 1.0
+
  */
 ?>
         <footer>
@@ -158,7 +150,6 @@
                                          */
                                     ?>
 
-                                    <span><?php printf( __( 'Designed by %s.' , 'materialize' ) , '<a href="' . esc_url( mythemes_core::author( 'url' ) ) . '" target="_blank" title="' . esc_attr( mythemes_core::author( 'name' ) ) . '" class="mythemes">' . mythemes_core::author( 'name' ) . '</a>' ); ?></span>
                                 </p>
                             </div>
 

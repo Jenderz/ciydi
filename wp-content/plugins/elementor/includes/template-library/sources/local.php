@@ -266,7 +266,7 @@ class Source_Local extends Source_Base {
 
 					<div id="elementor-new-template__form__post-title__wrapper" class="elementor-form-field">
 						<label for="elementor-new-template__form__post-title" class="elementor-form-field__label">
-							<?php echo __( 'Name Your Template', 'elementor' ); ?>
+							<?php echo __( 'Name your template', 'elementor' ); ?>
 						</label>
 						<div class="elementor-form-field__text__wrapper">
 							<input type="text" placeholder="<?php echo esc_attr( __( 'Enter template name (optional)', 'elementor' ) );?>" id="elementor-new-template__form__post-title" class="elementor-form-field__text" name="post_data[post_title]">
@@ -662,6 +662,8 @@ class Source_Local extends Source_Base {
 	 * @access public
 	 *
 	 * @param int $template_id The template ID.
+	 *
+	 * @return array|\WP_Error WordPress error if template export failed.
 	 */
 	public function export_template( $template_id ) {
 		$file_data = $this->prepare_template_export( $template_id );
@@ -692,6 +694,8 @@ class Source_Local extends Source_Base {
 	 * @access public
 	 *
 	 * @param array $template_ids An array of template IDs.
+	 *
+	 * @return \WP_Error WordPress error if export failed.
 	 */
 	public function export_multiple_templates( array $template_ids ) {
 		$files = [];
@@ -861,7 +865,6 @@ class Source_Local extends Source_Base {
 				<div id="elementor-import-template-title"><?php echo __( 'Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library.', 'elementor' ); ?></div>
 				<form id="elementor-import-template-form" method="post" action="<?php echo admin_url( 'admin-ajax.php' ); ?>" enctype="multipart/form-data">
 					<input type="hidden" name="action" value="elementor_import_template">
-					<input type="hidden" name="editor_post_id" value="<?php the_ID(); ?>">
 					<input type="hidden" name="_nonce" value="<?php echo Plugin::$instance->editor->create_nonce( self::CPT ); ?>">
 					<fieldset id="elementor-import-template-form-inputs">
 						<input type="file" name="file" accept=".json,application/json,.zip,application/octet-stream,application/zip,application/x-zip,application/x-zip-compressed" required>
@@ -968,7 +971,6 @@ class Source_Local extends Source_Base {
 				'action' => 'elementor_export_template',
 				'source' => $this->get_id(),
 				'_nonce' => Plugin::$instance->editor->create_nonce( self::CPT ),
-				'editor_post_id' => get_the_ID(),
 				'template_id' => $template_id,
 			],
 			admin_url( 'admin-ajax.php' )
@@ -1082,9 +1084,9 @@ class Source_Local extends Source_Base {
 	 * @since 1.6.0
 	 * @access public
 	 *
-	 * @param string $redirect_url The redirect URL.
-	 * @param string $action       The action being taken.
-	 * @param array  $items        The items to take the action on.
+	 * @param string $redirect_to The redirect URL.
+	 * @param string $action      The action being taken.
+	 * @param array  $post_ids    The items to take the action on.
 	 *
 	 * @return string The redirect URL.
 	 */

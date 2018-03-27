@@ -2,15 +2,435 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b3f963-d79b-459a-a7e2-da9ed360726d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-dise├▒o-mecanico-idical-idi-ingenieria-innovacion-2-150x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-dise├▒o-mecanico-idical-idi-ingenieria-innovacion-2-300x167.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-dise├▒o-mecanico-idical-idi-ingenieria-innovacion-2-400x250.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-dise├▒o-mecanico-idical-idi-ingenieria-innovacion-2-768x428.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-dise├▒o-mecanico-idical-idi-ingenieria-innovacion-2-800x450.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-dise├▒o-mecanico-idical-idi-ingenieria-innovacion-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-1-150x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-1-300x134.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-1-400x250.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-1-768x343.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-1-800x360.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-150x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-300x167.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4-400x250.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-img_servicos-1_4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-1024x375.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-1140x515.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-300x110.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-400x250.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-768x282.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1-800x450.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1024x471.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-1140x515.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-1024x368.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-1140x515.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-300x108.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-400x250.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-768x276.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2-800x450.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-300x138.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-400x250.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-768x353.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week-800x450.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-south-view-academys-art-week.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/img_servicos-1_4-150x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/img_servicos-1_4-300x134.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/img_servicos-1_4-400x250.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/img_servicos-1_4-768x343.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/img_servicos-1_4-800x360.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/img_servicos-1_4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-1024x576.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-1140x515.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-300x169.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-400x250.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-768x432.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week-800x450.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/03/south-view-academys-art-week.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/blog.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/blog.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/comments.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/comments.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/forms.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/forms.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/typography.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/typography.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/widgets.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/widgets.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/searchform.php" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/searchform.php" />
+      <change beforePath="$PROJECT_DIR$/readme.html" afterPath="$PROJECT_DIR$/readme.html" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor.2.0.0.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin-rtl.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin-rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin-rtl.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin-rtl.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/admin.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview-rtl.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview-rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview-rtl.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview-rtl.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-preview.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-rtl.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-rtl.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor-rtl.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/editor.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend-rtl.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend-rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend-rtl.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend-rtl.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/css/frontend.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin-feedback.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin-feedback.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin-feedback.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin-feedback.min.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/admin.min.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/editor.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/editor.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/editor.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/editor.min.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/frontend.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/frontend.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/frontend.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/assets/js/frontend.min.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/ajax-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/ajax-manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/documents-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/documents-manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/modules-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/modules-manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/role-manager/role-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/role-manager/role-manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/settings/base/manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/settings/base/manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/settings/page/manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/settings/page/manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/core/settings/page/model.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/core/settings/page/model.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/elementor.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/elementor.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/admin.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/base/controls-stack.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/base/controls-stack.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/animation.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/animation.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/groups/base.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/groups/base.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/groups/typography.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/groups/typography.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/media.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/media.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/repeater.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/controls/repeater.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/frontend.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/frontend.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/managers/controls.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/managers/controls.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/schemes/base.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/schemes/base.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/schemes/color-picker.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/schemes/color-picker.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/schemes/color.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/schemes/color.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/template-library/manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/template-library/manager.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/template-library/sources/local.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/template-library/sources/local.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/upgrades.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/upgrades.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/utils.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/utils.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/widgets/audio.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/widgets/audio.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/widgets/counter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/includes/widgets/counter.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/elementor/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/elementor/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/loginizer.1.3.9.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/profile-builder.2.7.8.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/theme-my-login.6.4.10.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/footer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/instructions.txt" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/instructions.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/screenshot.png" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/ciydi/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/author.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/category.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/cfgs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/customize.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/pages.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/pages/materialize-faq.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/widgets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/widgets/mythemes.post_categories.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/widgets/mythemes.post_meta.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/cfg/widgets/mythemes.post_tags.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/changelog.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/fontello-licenses.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/front-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/instructions.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/languages/how-to-translate.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/languages/materialize.pot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.admin.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.breadcrumbs.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.cfg.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.comments.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.core.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.gallery.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.header.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.layouts.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.post.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.scripts.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.setup.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/lib/mythemes.tools.class.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/css/adds.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/css/ahtml.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/css/boxes.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/css/customizer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/css/options.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/cannyon-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/full.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/my-contrastica-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/my-engine-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/my-lovely-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/my-world-with-grass-and-dew-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/nerocity-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/treeson-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/img/verbo-premium.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/js/customizer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_backend/js/gallery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/blog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/comments-typography.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/comments.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/effects.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/elements.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/footer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/forms.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/header.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/materialize.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/materialize.min2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/nav.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/navigation.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/plugins.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/prettyPhoto.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/typography.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/css/widgets.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/archives-arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/bkg.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/comment-form.author.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/comment-form.email.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/comment-form.url.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/default-avatar-68.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/default-avatar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/footer-widget-delimiter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/nav-orizontal-arrow-hover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/nav-orizontal-arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/nav-vertical-arrow-current.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/nav-vertical-arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/overflow-bkg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_square/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_square/contentPattern.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_square/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/dark_square/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/default_thumb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/sprite_next.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/sprite_prev.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/sprite_x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/default/sprite_y.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/facebook/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_rounded/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_rounded/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_square/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_square/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_square/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/prettyPhoto/light_square/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/sub-nav-top-arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/img/zoom.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/html5shiv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/html5shiv.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/jquery.prettyPhoto.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/jquery.prettyPhoto.settings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/materialize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/materialize.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/respond.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/_frontend/js/respond.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/css/fontello.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/fonts/fontello.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/fonts/fontello.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/fonts/fontello.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/fonts/fontello.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/media/fonts/fontello.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/searchform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-footer-first.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-footer-fourth.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-footer-second.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-footer-third.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-front-page-header-first.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-front-page-header-second.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-front-page-header-third.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-front-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-post.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar-special-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/tag.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/head.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/loop.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/meta/bottom.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/meta/top.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/pagination.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/style.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ciydi2/templates/views/classic.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/author-bio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-link.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-none.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/COPYING.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/genericons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/back-compat.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/custom-header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/customizer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/template-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/color-scheme-control.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/customize-preview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/html5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/colors-dark.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie9.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/coffee.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/espresso.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/header.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/sandwich.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/svg-icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-controls.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-preview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/html5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/front-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/back-compat.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/color-patterns.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/custom-header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/customizer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/icon-functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/header-image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-none.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-video.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/COPYING.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/genericons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/back-compat.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/customizer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/template-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/color-scheme-control.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/customize-preview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/html5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/searchform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar-content-bottom.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/biography.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-none.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,101 +453,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css">
+      <file leaf-file-name="readme.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1921">
-              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="elements.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/elements.css">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4734">
-              <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="effects.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/effects.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2879">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comments.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/comments.css">
+      <file leaf-file-name="license.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/license.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5892">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instructions.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/instructions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fontello-licenses.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/fontello-licenses.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="346" column="30" lean-forward="false" selection-start-line="346" selection-start-column="30" selection-end-line="346" selection-end-column="30" />
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/search.php">
+      <file leaf-file-name="author.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/author.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1075">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchform.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/searchform.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="257" lean-forward="false" selection-start-line="17" selection-start-column="257" selection-end-line="17" selection-end-column="257" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/blog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7128">
-              <caret line="396" column="30" lean-forward="false" selection-start-line="396" selection-start-column="30" selection-end-line="396" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="106" column="19" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/forms.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5148">
-              <caret line="319" column="18" lean-forward="false" selection-start-line="319" selection-start-column="18" selection-end-line="319" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typography.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/typography.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="18">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -147,7 +537,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/author.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css" />
@@ -159,6 +548,11 @@
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/forms.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/typography.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/comments.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/templates/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/footer.php" />
+        <option value="$PROJECT_DIR$/readme.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ciydi/instructions.txt" />
       </list>
     </option>
   </component>
@@ -191,7 +585,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,38 +611,11 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="ciydi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="media" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ciydi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="media" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ciydi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ciydi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="media" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,18 +669,21 @@
       <workItem from="1522017621375" duration="8407000" />
       <workItem from="1522071100698" duration="8858000" />
       <workItem from="1522092119328" duration="2695000" />
-      <workItem from="1522098053597" duration="5410000" />
+      <workItem from="1522098053597" duration="6269000" />
+      <workItem from="1522110568257" duration="1584000" />
+      <workItem from="1522157031603" duration="768000" />
+      <workItem from="1522158281512" duration="1165000" />
+      <workItem from="1522165470002" duration="798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85009000" />
+    <option name="totallyTimeSpent" value="90183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-27" y="51" width="1026" height="605" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2781186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3026585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -321,7 +691,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24261603" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18987341" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -349,66 +719,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_backend/css/customizer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_backend/css/options.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_backend/css/boxes.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
-          <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="60" />
-          <folding>
-            <element signature="e#3977#4262#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/templates/meta/bottom.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/templates/meta/top.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -472,13 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/author.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -487,13 +790,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/instructions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -514,21 +810,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="2070">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="-2">
+          <caret line="6632" column="15" lean-forward="true" selection-start-line="6632" selection-start-column="15" selection-end-line="6632" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/widgets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7555">
+          <caret line="519" column="19" lean-forward="false" selection-start-line="519" selection-start-column="19" selection-end-line="519" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/prettyPhoto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2857">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/plugins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1669">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3397">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8162">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="106" column="19" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/searchform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="257" lean-forward="false" selection-start-line="17" selection-start-column="257" selection-end-line="17" selection-end-column="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7128">
+          <caret line="396" column="30" lean-forward="false" selection-start-line="396" selection-start-column="30" selection-end-line="396" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/forms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5742">
+          <caret line="319" column="18" lean-forward="false" selection-start-line="319" selection-start-column="18" selection-end-line="319" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/comments.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="346" column="30" lean-forward="false" selection-start-line="346" selection-start-column="30" selection-end-line="346" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/sidebar-footer-first.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/sidebar-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -542,14 +964,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/templates/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="594">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/sidebar-special-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="184" column="79" lean-forward="false" selection-start-line="184" selection-start-column="79" selection-end-line="184" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/tag.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -565,89 +1009,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="184" column="79" lean-forward="true" selection-start-line="184" selection-start-column="79" selection-end-line="184" selection-end-column="79" />
-          <folding>
-            <element signature="e#3977#4262#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="6632" column="15" lean-forward="true" selection-start-line="6632" selection-start-column="15" selection-end-line="6632" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/widgets.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7555">
-          <caret line="519" column="19" lean-forward="false" selection-start-line="519" selection-start-column="19" selection-end-line="519" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/prettyPhoto.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2857">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/plugins.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1669">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/navigation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3397">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/materialize.min2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8162">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/ie.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/sidebar-special-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -655,82 +1017,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/header.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/templates/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="106" column="19" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        <state relative-caret-position="18">
+          <caret line="73" column="34" lean-forward="false" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/footer.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1921">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        <state relative-caret-position="-85">
+          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/elements.css">
+    <entry file="file://$PROJECT_DIR$/readme.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4734">
-          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/effects.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2879">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/search.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/license.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1075">
+        <state relative-caret-position="-5892">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/searchform.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/instructions.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="257" lean-forward="false" selection-start-line="17" selection-start-column="257" selection-end-line="17" selection-end-column="257" />
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7128">
-          <caret line="396" column="30" lean-forward="false" selection-start-line="396" selection-start-column="30" selection-end-line="396" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/forms.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5148">
-          <caret line="319" column="18" lean-forward="false" selection-start-line="319" selection-start-column="18" selection-end-line="319" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/typography.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/media/_frontend/css/comments.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/fontello-licenses.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="346" column="30" lean-forward="false" selection-start-line="346" selection-start-column="30" selection-end-line="346" selection-end-column="30" />
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ciydi/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>

@@ -1,4 +1,4 @@
-/*! elementor - v2.0.0 - 26-03-2018 */
+/*! elementor - v2.0.1 - 27-03-2018 */
 .elementor-screen-only,
 .screen-reader-text,
 .screen-reader-text span,
@@ -940,6 +940,7 @@ body.elementor-editor-inactive #elementor-editor {
   #elementor-new-template__form .elementor-form-field__label {
     display: block;
     margin: 25px 0 7px;
+    font-size: 14px;
     line-height: 1; }
   #elementor-new-template__form .elementor-form-field input,
   #elementor-new-template__form .elementor-form-field select {
